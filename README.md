@@ -1,4 +1,5 @@
-# Algorithms-Analysis-and-Designa# AlgorithmsCourse
+# Algorithms-Analysis-and-Designa
+# AlgorithmsCourse
 ## Factorial Calculation Code
 ex Git:
 ```
